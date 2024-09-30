@@ -220,7 +220,7 @@ SOFTWARE.
     "<centi>"  : [["c","Centi","centi"], 1e-2, "prefix"],
     "<milli>" :  [["m","Milli","milli"], 1e-3, "prefix"],
     "<micro>"  : [
-      ["u","\u03BC"/*µ as greek letter*/,"\u00B5"/*µ as micro sign*/,"Micro","mc","micro"],
+      ["\u03BC"/*µ as greek letter*/,"u","\u00B5"/*µ as micro sign*/,"Micro","mc","micro"],
       1e-6,
       "prefix"
     ],
